@@ -1,0 +1,185 @@
+.img-img{
+
+  display: block;
+  height: 500px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 70px;
+  padding-left: 40px;
+}
+.top-container{
+background-color: #DBDFFD;
+  padding-top: 100px;
+  line-height: 2;
+
+  }
+
+.bottom-container{
+  background-color: #C1EFFF;
+  line-height: 2;
+}
+h3{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+}
+.rapp{
+  height: 200px;
+  width: 200px;
+  padding-left: 30px;
+
+}
+.rap{
+  height: 200px;
+  width: 200px;
+  float: right;
+  padding-right: 50px;
+}
+h2{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  text-decoration: underline;
+
+}
+.middle-container{
+background-color:#FFFDE3;
+padding-left: 10px;
+line-height: 3;
+font-family: 'Josefin Sans', sans-serif;
+font-size: large;
+
+}
+.jayy{text-align: left;
+
+}
+
+
+.jay-z{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+}
+.poloo{
+  text-align: left;
+}
+
+.polo-g{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+}
+.drakee{
+  text-align: left;
+}
+.dra-ke{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+
+}
+.kanyee{
+  text-align: left;
+}
+.uzi-uzi{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+
+}
+.game{
+  text-align: left;
+}
+.emi-nem{
+  width: 350px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+
+}
+.madonna{
+  text-align: left;
+}
+.kend-rick{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+
+}
+.meek{
+  text-align: left;
+}
+.meek-mill{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 30px;
+
+}
+.battle{
+  height: 30px;
+  width: 30px;
+  padding-left: 170px;
+
+
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+a:hover{
+  color: #EAF6F6;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 377px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.rapper{
+  height: 250px;
+  width: 250px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-top: 70px;
+  margin-bottom: 40px;
+
+}
+.hh{
+  height: 200px;
+  width: 200px;
+  float: right;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-right: 40px;
+  margin-top: 70px;
+  margin-bottom: 10px;
+
+
+}
+.gun{
+  height: 250px;
+  width: 250px;
+  padding-bottom: 10px;
+  margin-left: 240px;
+  margin-top: 70px;
+  margin-bottom: 40px;
+
+}
+.ree{
+  display: block;
+  padding-left: 150px;
+}
